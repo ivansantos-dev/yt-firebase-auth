@@ -12,12 +12,12 @@
 	let password = '';
 	let user: User | null;
 	const firebaseConfig = {
-		apiKey: 'AIzaSyAYLZXsNWkhqwAG_hsXQhMZOAQ5TW_M9tI',
-		authDomain: 'fir-auth-tutorial-6a0a0.firebaseapp.com',
-		projectId: 'fir-auth-tutorial-6a0a0',
-		storageBucket: 'fir-auth-tutorial-6a0a0.appspot.com',
-		messagingSenderId: '1096742130021',
-		appId: '1:1096742130021:web:e53b3b2c2118918f02518c'
+		apiKey: 'AIzaSyB9XxiwZj0Oafuk04kGxPNabhR0-NkZWVQ',
+		authDomain: 'yt-v-b0b56.firebaseapp.com',
+		projectId: 'yt-v-b0b56',
+		storageBucket: 'yt-v-b0b56.appspot.com',
+		messagingSenderId: '498551643832',
+		appId: '1:498551643832:web:400224298197c60ee15e4d'
 	};
 
 	const app = initializeApp(firebaseConfig);
